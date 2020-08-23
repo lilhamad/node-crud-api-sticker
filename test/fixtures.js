@@ -1,5 +1,3 @@
-const sticker = require("../sticker");
-
 const stickers = [
     {
         "id": 1,
@@ -64,8 +62,16 @@ const stickers = [
         "rating": "7",
         "url": "http://devstickers.com/assets/img/pro/4gem.png"
     }
-]
+];
+
+const sticker = {
+    "title": "git",
+    "description": "git logo",
+    "rating": "7",
+    "url": "http://devstickers.com/assets/img/pro/4gem.png"
+};
 
 module.exports = {
-    stickers
+    stickers,
+    sticker
 }
