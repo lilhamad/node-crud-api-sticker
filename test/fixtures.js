@@ -67,7 +67,7 @@ const stickers = [
 const sticker = {
     "title": "git",
     "description": "git logo",
-    "rating": "7",
+    "rating": "3",
     "url": "http://devstickers.com/assets/img/pro/4gem.png"
 };
 
